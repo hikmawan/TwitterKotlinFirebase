@@ -1,0 +1,2 @@
+rootProject.name='Twitter Kotlin Firebase'
+include ':app'
