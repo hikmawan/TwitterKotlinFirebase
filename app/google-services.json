@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "119510054316",
+    "firebase_url": "https://twitter-kotlin-firebase.firebaseio.com",
+    "project_id": "twitter-kotlin-firebase",
+    "storage_bucket": "twitter-kotlin-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:119510054316:android:c2519c9de6ac8e4e87b609",
+        "android_client_info": {
+          "package_name": "dev.ghani.twitterkotlinfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "119510054316-g4h30oppcefdbbmtkj5ip4bans77roe5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "dev.ghani.twitterkotlinfirebase",
+            "certificate_hash": "d2fe363512ea8025ffb32c1845439db60d08141f"
+          }
+        },
+        {
+          "client_id": "119510054316-pe1qf8pr1ns2pa0me0239c249nif9jfb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIs6aYRNUDShn8OEYL58qVQfo2lvGzvbg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "119510054316-pe1qf8pr1ns2pa0me0239c249nif9jfb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
